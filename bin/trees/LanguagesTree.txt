@@ -1,0 +1,13 @@
+Indo-European:Anatolian,Indo-Iranian,Greek,Italic,Celtic,Germanic,Armenian,Tocharian,Balto-Slavic,Albanian
+Anatolian:Hittite,Luwian,Lycian,Lydian
+Indo-Iranian:Indo-Aryan,Iranian,Nuristani
+Indo-Aryan:Sanskrit,Hindi,Urdu,Bengali,Punjabi
+Iranian:Persian,Kurdish,Pashto
+Greek:Ancient Greek,Modern Greek
+Italic:Latin,Romance
+Romance:Italian,Spanish,French,Portuguese,Romanian
+Celtic:Irish,Scottish Gaelic,Welsh,Breton
+Germanic:English,German,Dutch,Swedish,Norwegian,Danish,Icelandic
+Balto-Slavic:Baltic,Slavic
+Baltic:Lithuanian,Latvian
+Slavic:Russian,Polish,Czech,Ukrainian,Serbian,Bulgarian
